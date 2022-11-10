@@ -52,7 +52,7 @@ li{list-style: none;}
 }
 
 .img-header{
-    background-image: url(/assents/img/1.jpg) !important; 
+    background-image: url(/assents/img/1.jpg)
     background-position: left center;
     background-size: cover;
     height: 100%;
